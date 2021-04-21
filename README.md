@@ -4,9 +4,7 @@
   [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:talit.moraes13@gmail.com)
   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talita-moraes-ferreira/)
 
-Seja muito bem vindo e muito bem vinda ao repositório.
-
-Aqui você vai encontrar muitos projetos que eu utilizo no meu dia a dia para fins acadêmicos e fazer novos experimentos com novas tecnologias. 
+<p align=center> Seja muito bem vindo e muito bem vinda ao repositório. Aqui você vai encontrar muitos projetos que eu utilizo no meu dia a dia para fins acadêmicos e fazer novos experimentos com novas tecnologias. </p>
 
 
 ## Coisas que eu gosto de fazer:
